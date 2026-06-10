@@ -1,31 +1,39 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2868
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+# Web Scraping - Highest Grossing Films
 
-\f0\fs24 \cf0 # Web Scraping - Highest Grossing Films\
-\
-## Objective\
-\
-This project scrapes the list of highest-grossing films from Wikipedia using Python and Pandas.\
-\
-## Technologies Used\
-\
-- Python\
-- Requests\
-- Pandas\
-\
-## Dataset\
-\
-The dataset contains:\
-- Rank\
-- Peak\
-- Title\
-- Worldwide Gross\
-- Year\
-\
-## Output\
-\
-The extracted data is saved as `highest_grossing_films.csv`.}
+## Overview
+
+This project was developed as part of the CodeAlpha Data Analytics Internship.
+
+It extracts the list of highest-grossing films from Wikipedia, cleans the data, and exports it as a CSV file for further analysis.
+
+## Technologies Used
+
+- Python
+- Requests
+- Pandas
+
+## Files
+
+- `Task1_WebScraping.ipynb` - Jupyter Notebook containing the scraping code
+- `highest_grossing_films.csv` - Extracted dataset
+- `requirements.txt` - Required Python libraries
+
+## Dataset Fields
+
+- Rank
+- Peak
+- Title
+- Worldwide Gross
+- Year
+
+## Author
+
+**Nithin K**
+
+Amrita School of Engineering, Chennai
+
+GitHub: https://github.com/nithin718
+
+## Acknowledgement
+
+Created as part of the CodeAlpha Data Analytics Internship.
